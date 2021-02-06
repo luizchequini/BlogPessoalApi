@@ -4,6 +4,5 @@ namespace Data.Entidades
 {
     public class ApplicationUser : IdentityUser
     {
-
     }
 }

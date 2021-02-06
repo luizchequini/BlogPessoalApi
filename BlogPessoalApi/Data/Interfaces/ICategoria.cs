@@ -2,7 +2,7 @@
 
 namespace Data.Interfaces
 {
-    public interface ICategoria : IGeneric<Noticia>
+    public interface ICategoria : IGeneric<Categoria>
     {
     }
 }
